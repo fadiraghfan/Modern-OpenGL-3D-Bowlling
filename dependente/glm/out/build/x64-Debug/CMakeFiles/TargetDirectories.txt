@@ -1,0 +1,3 @@
+C:/Users/40758/Desktop/SEM1/ACG/BigHw1-2/BigBoys/BigBoy2/dependente/glm/out/build/x64-Debug/CMakeFiles/glm.dir
+C:/Users/40758/Desktop/SEM1/ACG/BigHw1-2/BigBoys/BigBoy2/dependente/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/40758/Desktop/SEM1/ACG/BigHw1-2/BigBoys/BigBoy2/dependente/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

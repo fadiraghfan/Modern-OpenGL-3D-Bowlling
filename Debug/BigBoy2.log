@@ -1,0 +1,20 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+  camera.cpp
+  Cylinder.cpp
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\Cylinder.cpp(607,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\Cylinder.cpp(607,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\Cylinder.cpp(675,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\Cylinder.cpp(675,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  main.cpp
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\main.cpp(214,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\main.cpp(303,18): warning C4305: '+=': truncation from 'double' to 'float'
+  shader.cpp
+  Sphere.cpp
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\Sphere.cpp(231,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\Sphere.cpp(231,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\Sphere.cpp(321,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\Sphere.cpp(321,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  stb.cpp
+  Generating Code...
+  BigBoy2.vcxproj -> C:\Users\40758\Desktop\teamp\BigBoys\BigBoy2\Debug\BigBoy2.exe
